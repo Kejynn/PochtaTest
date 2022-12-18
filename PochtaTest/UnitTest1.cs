@@ -6,7 +6,7 @@ using System.Threading;
 namespace PochtaTest
 {
     public class Tests
-    {ä
+    {
         private IWebDriver driver;
 
         private readonly By pochtaButton = By.XPath("//button[@weight='500']");
